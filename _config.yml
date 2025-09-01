@@ -1,0 +1,12 @@
+title: "Sampada Chavan — Data Analyst Portfolio (4+ Years)"
+description: "End-to-end data analytics portfolio: SQL • Python • BI • Cloud"
+theme: jekyll-theme-cayman
+github_username: samchavan1996
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: "Sampada Chavan"
+  email: "sampada1996@gmail.com"          
+  linkedin: "https://www.linkedin.com/in/sampadachavan18/" 
